@@ -52,5 +52,6 @@ Many projects use a table of contents at the start of a README to direct users t
 
 ### Further reading
 
-- "[Adding a file to a repository](/articles/adding-a-file-to-a-repository)"
+- "[Adding a file to a reposit[scripts_2021-03-29_11.25.17.zip](https://github.com/github/docs/files/6220652/scripts_2021-03-29_11.25.17.zip)
+ory](/articles/adding-a-file-to-a-repository)"
 - 18F's "[Making READMEs readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md)"
